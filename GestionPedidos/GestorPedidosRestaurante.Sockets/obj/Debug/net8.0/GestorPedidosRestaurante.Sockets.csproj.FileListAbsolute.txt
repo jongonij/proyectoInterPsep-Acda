@@ -1,0 +1,15 @@
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\bin\Debug\net8.0\GestorPedidosRestaurante.Sockets.exe
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\bin\Debug\net8.0\GestorPedidosRestaurante.Sockets.dll
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.AssemblyInfoInputs.cache
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.AssemblyInfo.cs
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.sourcelink.json
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.dll
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\refint\GestorPedidosRestaurante.Sockets.dll
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.pdb
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\bin\Debug\net8.0\GestorPedidosRestaurante.Sockets.deps.json
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\bin\Debug\net8.0\GestorPedidosRestaurante.Sockets.runtimeconfig.json
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\bin\Debug\net8.0\GestorPedidosRestaurante.Sockets.pdb
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\GestorPedidosRestaurante.Sockets.genruntimeconfig.cache
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.Sockets\obj\Debug\net8.0\ref\GestorPedidosRestaurante.Sockets.dll

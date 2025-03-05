@@ -1,0 +1,6 @@
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.API\obj\Debug\net8.0\GestorPedidosRestaurante.API.csproj.AssemblyReference.cache
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.API\obj\Debug\net8.0\GestorPedidosRestaurante.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.API\obj\Debug\net8.0\GestorPedidosRestaurante.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.API\obj\Debug\net8.0\GestorPedidosRestaurante.API.AssemblyInfo.cs
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.API\obj\Debug\net8.0\GestorPedidosRestaurante.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\asignaturas\proyectoInterPsep-Acda\GestionPedidos\GestorPedidosRestaurante.API\obj\Debug\net8.0\GestorPedidosRestaurante.API.sourcelink.json

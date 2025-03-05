@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "77cb6605-40b6-48fd-9d69-781899b6a6b1",
+    "ClienteId": "906b7a93-dab0-4368-831f-cef252d4b8c7",
+    "Items": [
+      {
+        "ProductoId": "842b3122-58f3-4896-9080-7c3096390ab8",
+        "Nombre": "macarron",
+        "Cantidad": 2
+      },
+      {
+        "ProductoId": "c8b861cb-af16-4bfc-bc3e-f2f00c7e967f",
+        "Nombre": "pato",
+        "Cantidad": 1
+      }
+    ],
+    "Estado": 2
+  }
+]
