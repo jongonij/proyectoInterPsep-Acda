@@ -151,9 +151,29 @@ namespace GestorPedidosRestaurante.Client
 
                 if (response.IsSuccessStatusCode)
                 {
-                    var data = await response.Content.ReadAsStringAsync();
-                    Console.WriteLine("📋 Pedidos:");
-                    Console.WriteLine(data);
+                    var pedidos = await response.Content.ReadFromJsonAsync<List<Pedido>>();
+
+                    if (pedidos != null && pedidos.Count > 0)
+                    {
+                        Console.WriteLine("📋 Pedidos:");
+
+                        foreach (var pedido in pedidos)
+                        {
+                            Console.WriteLine($"📦 Pedido ID: {pedido.Id}");
+                            Console.WriteLine($"👤 Cliente ID: {pedido.ClienteId}");
+                            Console.WriteLine($"📌 Estado: {pedido.Estado}");
+                            Console.WriteLine("🛒 Productos:");
+                            foreach (var item in pedido.Items)
+                            {
+                                Console.WriteLine($"  - {item.Nombre} (ID: {item.ProductoId}) x {item.Cantidad}");
+                            }
+                            Console.WriteLine(new string('-', 40)); // Separador entre pedidos
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("No hay pedidos disponibles.");
+                    }
                 }
                 else
                 {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPedidosRestaurante.Sockets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a4b18d11e94eeaed110e04c852dfcab477bf20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3de11515a8812aa434432d1adbd68c5aa811a8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPedidosRestaurante.Sockets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPedidosRestaurante.Sockets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

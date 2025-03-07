@@ -14,6 +14,18 @@
         "Cantidad": 1
       }
     ],
-    "Estado": 2
+    "Estado": 3
+  },
+  {
+    "Id": "8563fa40-4743-49aa-a1b6-6748b5bb45ec",
+    "ClienteId": "39a8d28b-547c-4e78-94ce-2c70a28fe0b3",
+    "Items": [
+      {
+        "ProductoId": "31e9752f-d10f-40e2-a831-de8ead6a0261",
+        "Nombre": "pacoMeal",
+        "Cantidad": 2
+      }
+    ],
+    "Estado": 1
   }
 ]

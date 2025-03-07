@@ -47,6 +47,9 @@ builder.Services.AddScoped<ISocketService, SocketService>(); // ⬅ REGISTRAR SO
 
 
 var app = builder.Build();
+// Inicia el servidor de sockets
+var socketServer = app.Services.GetRequiredService<SocketServer>();
+_ = socketServer.Iniciar();
 
 // Configurar middleware
 if (app.Environment.IsDevelopment())
@@ -60,8 +63,6 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-// Inicia el servidor de sockets
-//var socketServer = app.Services.GetRequiredService<SocketServer>();
-//_ = socketServer.Iniciar();
+
 
 app.Run();

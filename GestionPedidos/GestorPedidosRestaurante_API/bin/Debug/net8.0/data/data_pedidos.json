@@ -14,6 +14,54 @@
         "Cantidad": 1
       }
     ],
+    "Estado": 3
+  },
+  {
+    "Id": "8563fa40-4743-49aa-a1b6-6748b5bb45ec",
+    "ClienteId": "39a8d28b-547c-4e78-94ce-2c70a28fe0b3",
+    "Items": [
+      {
+        "ProductoId": "31e9752f-d10f-40e2-a831-de8ead6a0261",
+        "Nombre": "pacoMeal",
+        "Cantidad": 2
+      }
+    ],
+    "Estado": 1
+  },
+  {
+    "Id": "b5273757-e4ad-426c-be9d-64d7e2c88b6f",
+    "ClienteId": "c17212e7-fe37-4712-a71c-4199c6acd365",
+    "Items": [
+      {
+        "ProductoId": "f1cd29a1-b5ec-4dfb-ab38-1b5702e1aa9b",
+        "Nombre": "patosFritos",
+        "Cantidad": 2
+      }
+    ],
+    "Estado": 0
+  },
+  {
+    "Id": "ac5ea7f4-afda-4217-89b0-ae63d35e5468",
+    "ClienteId": "02b7ddc0-05fc-42e0-ac6e-ddf009667a37",
+    "Items": [
+      {
+        "ProductoId": "4fc051fc-7ec9-4261-9f3b-c4244a0eef02",
+        "Nombre": "patoNoFrito",
+        "Cantidad": 2
+      }
+    ],
+    "Estado": 0
+  },
+  {
+    "Id": "498c7cb7-6d1a-4226-a68a-d27724822a2e",
+    "ClienteId": "3cb5a5dc-4c2e-45dc-8d4f-3ae10f8be825",
+    "Items": [
+      {
+        "ProductoId": "eb202d32-c312-4769-aeaf-f8d8d6807d8d",
+        "Nombre": "pat",
+        "Cantidad": 2
+      }
+    ],
     "Estado": 2
   }
 ]

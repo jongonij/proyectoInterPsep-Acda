@@ -94,6 +94,9 @@ namespace GestorPedidosRestaurante_API.Controllers
             _pedidos.Remove(pedido);
             await _jsonFileService.GuardarPedidosAsync(_pedidos); // Guardar en JSON
 
+            // Notificar a los clientes via sockets
+            await _socketService.NotificarCambioEstado(pedido);
+
             return NoContent(); // Pedido eliminado
         }
     }
