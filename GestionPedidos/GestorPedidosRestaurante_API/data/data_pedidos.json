@@ -63,5 +63,17 @@
       }
     ],
     "Estado": 2
+  },
+  {
+    "Id": "318255c0-62a8-4105-ad9a-47828f3d6a0b",
+    "ClienteId": "44b66e80-113b-41b2-b490-4ca8715c69cf",
+    "Items": [
+      {
+        "ProductoId": "89612a1b-719d-432d-90dc-40c31a765534",
+        "Nombre": "nada",
+        "Cantidad": 1
+      }
+    ],
+    "Estado": 2
   }
 ]

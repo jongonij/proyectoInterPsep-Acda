@@ -48,8 +48,8 @@ builder.Services.AddScoped<ISocketService, SocketService>(); // ⬅ REGISTRAR SO
 
 var app = builder.Build();
 // Inicia el servidor de sockets
-var socketServer = app.Services.GetRequiredService<SocketServer>();
-_ = socketServer.Iniciar();
+//var socketServer = app.Services.GetRequiredService<SocketServer>();
+//_ = socketServer.Iniciar();
 
 // Configurar middleware
 if (app.Environment.IsDevelopment())
@@ -58,7 +58,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.MapGet("/", () => "¡La aplicación está fun  cionando!");
+app.MapGet("/", () => "¡La aplicación está funcionando!");
 app.UseAuthentication();
 app.UseAuthorization();
 

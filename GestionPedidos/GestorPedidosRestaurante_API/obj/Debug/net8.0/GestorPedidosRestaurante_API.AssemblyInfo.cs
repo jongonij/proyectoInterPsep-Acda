@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPedidosRestaurante_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3de11515a8812aa434432d1adbd68c5aa811a8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e98f7101b3de21f9494f644b93fbeec1a57ac4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPedidosRestaurante_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPedidosRestaurante_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

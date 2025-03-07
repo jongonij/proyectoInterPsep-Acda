@@ -63,5 +63,34 @@
       }
     ],
     "Estado": 2
+  },
+  {
+    "Id": "318255c0-62a8-4105-ad9a-47828f3d6a0b",
+    "ClienteId": "44b66e80-113b-41b2-b490-4ca8715c69cf",
+    "Items": [
+      {
+        "ProductoId": "89612a1b-719d-432d-90dc-40c31a765534",
+        "Nombre": "nada",
+        "Cantidad": 1
+      }
+    ],
+    "Estado": 2
+  },
+  {
+    "Id": "89dcd10d-9797-4cf2-8cd8-80e958cd3b8f",
+    "ClienteId": "df45f96f-1dc0-4978-8695-a621593db3b8",
+    "Items": [
+      {
+        "ProductoId": "88ad8ab3-7d34-4bb2-9ba7-349cb34f0c7d",
+        "Nombre": "Hamburguesa",
+        "Cantidad": 2
+      },
+      {
+        "ProductoId": "c2b6d5fc-0037-44bb-a396-16bf3b4258f9",
+        "Nombre": "patats",
+        "Cantidad": 1
+      }
+    ],
+    "Estado": 1
   }
 ]
